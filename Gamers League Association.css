@@ -1,6 +1,6 @@
 body {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   background: rgb(0,0,0);
   background: linear-gradient(180deg, rgba(0,0,0,1) 52%, rgba(164,0,125,1) 100%);  
 }
@@ -38,7 +38,7 @@ li a {
   text-decoration: none;
   }
 
-  bg-image{
-    background-image: url("114992844_l-scaled.jpg");
+  .bg-image{
+    background-image: url("https://t3.ftcdn.net/jpg/02/79/45/58/360_F_279455856_sUviyysSgy9rUskLoRTdhYt2Ng6Wwj1f.jpg");
     background-size: 100% 100%; 
   }
